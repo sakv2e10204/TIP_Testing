@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yLnMM+t/GME/D8wlASsYgiilArfpJgjYZsHvZS+KKc5pgWKX5OFFna8LtMg2CvVKVQANI5T6wNXjtCDQrzjyUg==",
+  "dgSpecHash": "V1VPwOlX+9vFggQx4pblXr2vX1izjJBc3Xb7pg2GsYZgk4FfVdefR7y6TshyaYP4fGCBPP+0IXR42G6l8RGA4w==",
   "success": true,
-  "projectFilePath": "D:\\Git Repository\\T1\\TIP_Testing\\TelecomInfraProject\\TelecomInfraProject.csproj",
+  "projectFilePath": "D:\\Git Repository\\T2_Pull\\TelecomInfraProject\\TelecomInfraProject.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git Repository\\T1\\TIP_Testing\\TelecomInfraProject\\TelecomInfraProject.csproj": {}
+    "D:\\Git Repository\\T2_Pull\\TelecomInfraProject\\TelecomInfraProject.csproj": {}
   },
   "projects": {
-    "D:\\Git Repository\\T1\\TIP_Testing\\TelecomInfraProject\\TelecomInfraProject.csproj": {
+    "D:\\Git Repository\\T2_Pull\\TelecomInfraProject\\TelecomInfraProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git Repository\\T1\\TIP_Testing\\TelecomInfraProject\\TelecomInfraProject.csproj",
+        "projectUniqueName": "D:\\Git Repository\\T2_Pull\\TelecomInfraProject\\TelecomInfraProject.csproj",
         "projectName": "TelecomInfraProject",
-        "projectPath": "D:\\Git Repository\\T1\\TIP_Testing\\TelecomInfraProject\\TelecomInfraProject.csproj",
+        "projectPath": "D:\\Git Repository\\T2_Pull\\TelecomInfraProject\\TelecomInfraProject.csproj",
         "packagesPath": "C:\\Users\\ramesh.g\\.nuget\\packages\\",
-        "outputPath": "D:\\Git Repository\\T1\\TIP_Testing\\TelecomInfraProject\\obj\\",
+        "outputPath": "D:\\Git Repository\\T2_Pull\\TelecomInfraProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
